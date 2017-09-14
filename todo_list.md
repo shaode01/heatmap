@@ -1,0 +1,9 @@
+1. http://echarts.baidu.com/echarts2/doc/example.html
+2. https://plot.ly/python/heatmaps/
+3. https://pypi.python.org/pypi/bkheatmap/0.1.4
+4. http://seaborn.pydata.org/generated/seaborn.heatmap.html#seaborn.heatmap
+5. http://www.sethoscope.net/heatmap/
+6. https://pypi.python.org/pypi/heatmap
+7. https://github.com/pbugnion/gmaps
+8. https://gist.github.com/teechap/9c066a9ab054cc322877
+9. https://github.com/oldj/pyheatmap
